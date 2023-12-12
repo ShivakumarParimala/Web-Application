@@ -1,0 +1,15 @@
+.navbar{
+    background-color:rgb(111, 238, 238);
+    height: 75px;
+}
+.top-bar{
+    display: flex;
+    /* align-items: ; */
+    justify-content: space-between;
+    padding: 10px 25px;
+    /* background:black; */
+}
+.top-bar ul{
+    list-style: none;
+    display: flex;
+}

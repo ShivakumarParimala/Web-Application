@@ -1,0 +1,14 @@
+.para {
+   font-size: 50px;
+   font-style: italic;
+   font-weight: bold;
+   color: brown;
+   background-color: aquamarine;
+   padding: 60px;
+   /*text-decoration: line-through solid black;*/
+   border: 2px solid red;
+   border-top-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+   
+}  
+

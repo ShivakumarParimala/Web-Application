@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV</title>
+    </head>
+    <body>
+        <h1>RESUME</h1> <picture>
+        <P>Shiva kumar Parimala</P>
+        <p>Phone No: +91 9550917586</p>
+        <p>Email ID: shivakumarparimala031@gmail.com</p>
+        <p>Address: 18-7-293 Kareemabad Warangal Telangana</p>
+        
+        <h2>Objective:</h2>
+        <hr>
+        <p>To lead a challenging position in a competitive and challenging environment where my education, Technical abilities, analytical problem-solving skills be put in for the successful execution of the project which offers professional growth while being resourceful, innovative and flexible</p>
+
+        <h2>Acadamic Qualification:</h2>
+        <hr>
+        <table border="3" cellpadding="5" cellspacing="5">
+            <tr>
+                <th>Qualification</th>
+                <th>Institute</th>
+                <th>University</th>
+                <th>Year of Passing</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>Btech(EEE)</td>
+                <td>WITS</td>
+                <td>Kakatiya University</td>
+                <td>2020</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>Diploma</td>
+                <td>WITS</td>
+                <td>SBTET</td>
+                <td>2017</td>
+                <td>80%</td>
+            </tr>
+            <tr>
+                <td>SSC</td>
+                <td>Milienium Public School</td>
+                <td>Board of Andhra Pradesh</td>
+                <td>2014</td>
+                <td>85%</td>
+            </tr>
+        </table>
+
+        <h2>Work Experience:</h2>
+        <hr>
+        <h3>Bhadradri Thermal Power plant (4*270MW) </h3>
+        <dl>
+              Worked as engineer at 400KV switch yard from (21-02-2021 to 19-02-2023)
+        </dl>
+        
+        <h2>skills:</h2>
+        <hr>
+        <ol>
+            <li>Quick learner with an ability to grasp new ideas and concepts</li>
+            <li>Good communication and coordination skills</li>
+            <li>Excellent written and verbal skills</li>
+
+        </ol>
+        <h2> Technical Knowledge:</h2>
+        <hr>
+
+        <ol>
+        <li>Maintaining of Electrical Machine</li>
+        <li>Operating Systems</li>
+        <li>Testing Equipments</li>
+        <li>Ms office</li>
+        <li>HTMl pyhton basics</li>
+        <li>MAT LAB </li>
+        <li> Simulation Lab</li>
+     </ol>
+         
+        <h2> Personal Profile:</h2>
+        <hr>
+        <dl>Father Name: P.Sadhanandam</dl>
+        <dl>DOB: 26/02/1997</dl>
+        <dl>Gender: male</dl>
+        <dl>Religion: Hindu</dl>
+        <dl>Nationality: Indiam</dl>
+
+        <h2>Declaration:</h2>
+        <hr>
+        <p>I hereby declare that the details above are correct and true to the best of my knowledge </p>
+
+        <p>Place:Warangal</p>
+        <p>Date:09/10/2023<p>
+        <p>signature: Parimala Shivakumar </p>
+
+    </body>
+</html>
